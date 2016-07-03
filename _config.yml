@@ -1,0 +1,16 @@
+# Site settings
+title: Yuanqin
+email: dengyuanqin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: http://lydie8773.github.com/lydieSencha # the subpath of your site, e.g. /blog/
+url: http://lydie8773.github.com/lydieSencha # the base hostname & protocol for your site
+favicon: /img/avatar.jpg
+
+twitter_username: https://twitter.com/lydieXD
+github_username: https://github.com/lydie8773
+
+# Build settings
+markdown: kramdown
+
+
+
